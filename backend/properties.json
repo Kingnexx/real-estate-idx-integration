@@ -1,0 +1,38 @@
+[
+  {
+    "id": "MLS001",
+    "price": 525000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2400,
+    "city": "Dallas",
+    "state": "TX",
+    "address": "123 Oak Street",
+    "remarks": "Beautiful 4-bedroom home in Dallas.",
+    "image": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=600"
+  },
+  {
+    "id": "MLS002",
+    "price": 389000,
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1800,
+    "city": "Austin",
+    "state": "TX",
+    "address": "45 Maple Avenue",
+    "remarks": "Charming updated bungalow near downtown Austin.",
+    "image": "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=600"
+  },
+  {
+    "id": "MLS003",
+    "price": 715000,
+    "beds": 5,
+    "baths": 4,
+    "sqft": 3200,
+    "city": "Dallas",
+    "state": "TX",
+    "address": "980 Cedar Lane",
+    "remarks": "Spacious family home with a large backyard.",
+    "image": "https://images.unsplash.com/photo-1583608205776-bfd35f0d9f83?w=600"
+  }
+]
